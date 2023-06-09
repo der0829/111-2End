@@ -189,7 +189,6 @@
 
 <br>
 
-<<<<<<< HEAD
 <table border="1 soild #fff">
     <tr>
         <td width="20%">使用者案例名稱</td>
