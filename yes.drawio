@@ -193,6 +193,9 @@
                         <mxPoint x="-54" y="-10" as="offset"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="84" value="購物車" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="1500" width="620" height="300" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
