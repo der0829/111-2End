@@ -125,7 +125,7 @@
         </td>
     </tr>
     <tr>
-        <td>其他需求</td>
+        <td width="20%">其他需求</td>
         <td>無</td>
     </tr>
 </table>
@@ -182,7 +182,7 @@
         </td>
     </tr>
     <tr>
-        <td>其他需求</td>
+        <td width="20%">其他需求</td>
         <td>無</td>
     </tr>
 </table>
@@ -233,7 +233,7 @@
         <td>3a. 若送出失敗，將會有訊息視窗提示，並顯示失敗原因</td>
     </tr>
     <tr>
-        <td>其他需求</td>
+        <td width="20%">其他需求</td>
         <td>無</td>
     </tr>
 </table>
@@ -283,7 +283,7 @@
         <td>無</td>
     </tr>
     <tr>
-        <td>其他需求</td>
+        <td width="20%">其他需求</td>
         <td>無</td>
     </tr>
 </table>
@@ -333,7 +333,7 @@
         <td>無</td>
     </tr>
     <tr>
-        <td>其他需求</td>
+        <td width="20%">其他需求</td>
         <td>無</td>
     </tr>
 </table>
